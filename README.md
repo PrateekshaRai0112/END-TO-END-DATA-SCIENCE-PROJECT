@@ -129,7 +129,8 @@ The original Iris dataset, freely available via scikit-learn.
 
 The many open-source projects that made this project possible.
 
-
+# Output
+![Image](https://github.com/user-attachments/assets/4160b554-81a2-4b25-96aa-bf12429b118d)
 
 
 
