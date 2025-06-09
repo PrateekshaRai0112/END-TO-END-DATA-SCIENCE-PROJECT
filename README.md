@@ -24,15 +24,15 @@ The primary goal of this project is to demonstrate the end-to-end workflow of a 
 
 iris-flower-classifier/
 
-├── app.py               # Flask web application script
+- app.py               # Flask web application script
 
-├── model1.pkl            # Serialized trained model
+- model1.pkl            # Serialized trained model
 
-├── train_model.ipynb    # Jupyter notebook for training and saving the model
+- train_model.ipynb    # Jupyter notebook for training and saving the model
 
-├── templates/
+- templates/
 
-    └── index.html       # HTML template for the input form and prediction display
+    - index.html       # HTML template for the input form and prediction display
 
 ## Dataset
 
